@@ -6,8 +6,6 @@ Grid Grip is a sleek and addictive Tic Tac Toe game for Android devices. Experie
 
 ## Features
 
-## Features
-
 - **Single Player Mode**: Play against an AI opponent with varying difficulty levels.
 - **Multiplayer Mode**: Challenge your friends and family in a two-player game.
 - **Beautiful Design**: Enjoy a sleek, modern design that enhances the gaming experience.
