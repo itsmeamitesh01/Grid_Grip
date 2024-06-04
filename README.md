@@ -1,8 +1,6 @@
-# Grid Grip - Android Tic Tac Toe Game
+<h1><img src="app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" alt="App Icon" width="50" height="50"> Grid Grip - Android Tic Tac Toe Game</h1>
 
 Grid Grip is a sleek and addictive Tic Tac Toe game for Android devices. Experience classic gameplay with a modern twist!
-
-![Grid Grip Logo](app/src/main/res/mipmap-hdpi/ic_launcher_round.webp)
 
 ## Features
 
