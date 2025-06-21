@@ -1,5 +1,7 @@
 # 🎮 Grid Grip – Android Tic Tac Toe Game
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/itsmeamitesh01/Grid_Grip)
+![Repo Size](https://img.shields.io/github/repo-size/itsmeamitesh01/Grid_Grip)
 
 
 
@@ -9,7 +11,7 @@ Grid Grip is a sleek and addictive **Tic Tac Toe** game for Android devices. Enj
 
 ## 🚀 Features
 
-- **Single Player Mode** – Challenge an AI opponent
+- **Single Player Mode** – Play against an AI opponent
 - **Multiplayer Mode** – Play locally with friends
 - **Beautiful Design** – Custom graphics and clean layout
 - **Statistics Tracking** – Monitor wins, losses, and ties
