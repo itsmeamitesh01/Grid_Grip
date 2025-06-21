@@ -27,12 +27,13 @@ Grid Grip is a sleek and addictive **Tic Tac Toe** game for Android devices. Enj
 
 ---
 
-## 📦 Download APK
+## 📦 Download
 
-👉 [**Click here to download the latest Grid Grip APK**](https://github.com/itsmeamitesh01/Grid_Grip/releases/latest)
+👉 [**Download APK (v1.0)**](https://github.com/itsmeamitesh01/Grid_Grip/releases/latest)
 
-> _Note: The APK is hosted in the [Releases](https://github.com/itsmeamitesh01/Grid_Grip/releases) section._
+You can download the latest version of Grid Grip from the following link:
 
+> _Note: The APK is available in the [Releases](https://github.com/itsmeamitesh01/Grid_Grip/releases) section. Compatible with most Android devices._
 ---
 
 ## 🛠️ Tech Stack
