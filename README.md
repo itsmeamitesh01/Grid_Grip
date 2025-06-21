@@ -1,36 +1,57 @@
-<h1><img src="app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" alt="App Icon" width="50" height="50"> Grid Grip - Android Tic Tac Toe Game</h1>
+# 🎮 Grid Grip – Android Tic Tac Toe Game
 
-Grid Grip is a sleek and addictive Tic Tac Toe game for Android devices. Experience classic gameplay with a modern twist!
+![App Icon](app/src/main/res/mipmap-hdpi/ic_launcher_round.webp)
 
-## Features
+Grid Grip is a sleek and addictive **Tic Tac Toe** game for Android devices. Enjoy a smooth and responsive UI with classic gameplay and modern design.
 
-- **Single Player Mode**: Play against an AI opponent with varying difficulty levels.
-- **Multiplayer Mode**: Challenge your friends and family in a two-player game.
-- **Beautiful Design**: Enjoy a sleek, modern design that enhances the gaming experience.
-- **Statistics**: Track your wins, losses, and ties to monitor your progress.
-- **Responsive Gameplay**: Experience smooth and responsive touch controls for seamless gameplay.
+---
 
-## Screenshots
-<div style="display: flex; justify-content: space-between;">
-    <img src="app/src/main/res/drawable/Homepage.png" alt="Homepage" width="200">
-    <img src="app/src/main/res/drawable/Gridbox.png" alt="Gameplay" width="200">
-    <img src="app/src/main/res/drawable/Output.png" alt="Result" width="200">
-</div>
+## 🚀 Features
 
-## Download
+- **Single Player Mode** – Challenge an AI opponent
+- **Multiplayer Mode** – Play locally with friends
+- **Beautiful Design** – Custom graphics and clean layout
+- **Statistics Tracking** – Monitor wins, losses, and ties
+- **Smooth Gameplay** – Fast and responsive touch controls
 
-You can download the latest version of Grid Grip from the following link:
+---
 
-[Grid Grip Apk](Grid_Grip.apk)
+## 📸 Screenshots
 
-## Getting Started
+<p float="left">
+  <img src="app/src/main/res/drawable/Homepage.png" width="200"/>
+  <img src="app/src/main/res/drawable/Gridbox.png" width="200"/>
+  <img src="app/src/main/res/drawable/Output.png" width="200"/>
+</p>
 
-To get started with Grid Grip, follow these steps:
+---
 
-1. Clone the repository: `git clone https://github.com/your_username/GridGrip.git`
+## 📦 Download APK
+
+👉 [**Click here to download the latest Grid Grip APK**](https://github.com/itsmeamitesh01/Grid_Grip/releases/latest)
+
+> _Note: The APK is hosted in the [Releases](https://github.com/itsmeamitesh01/Grid_Grip/releases) section._
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Android SDK
+- XML Layouts
+- Android Studio
+
+---
+
+## 🧪 Getting Started
+
+1. Clone the repo:
+```bash
+git clone https://github.com/itsmeamitesh01/Grid_Grip.git
+```
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. 
+Found a bug or want to improve the game? Feel free to open an issue or submit a pull request!
