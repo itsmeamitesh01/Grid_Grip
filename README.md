@@ -52,6 +52,9 @@ git clone https://github.com/itsmeamitesh01/Grid_Grip.git
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
+## 📄 License
+This project is under the [MIT License](LICENSE)
+
 ## 🤝 Contributing
 
 Found a bug or want to improve the game? Feel free to open an issue or submit a pull request!
